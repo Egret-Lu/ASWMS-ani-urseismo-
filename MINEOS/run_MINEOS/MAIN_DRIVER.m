@@ -1,0 +1,15 @@
+parameter_FRECHET
+
+a1_run_mineos_check
+
+a2_mk_kernels
+
+a3_pull_dispersion
+
+a4_pull_eigenfuncs
+
+a5_run_idagrn
+
+a5_run_idagrn_branch
+
+a6_run_idagrn_excitation

@@ -1,0 +1,15 @@
+sacdata
+eventmat
+CSmeasure
+eikonal
+winpara
+log
+id
+*.lst
+*.m~
+*.mat
+.DS_Store
+*.pdf
+*.win
+*.ipynb
+*.png
